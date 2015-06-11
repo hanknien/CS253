@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\[CS253]Homework\20150609_homework1\bin\Debug\20150609_homework1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\[CS253]Homework\20150609_homework1\bin\Debug\20150609_homework1.exe
+c:\users\user\documents\visual studio 2013\Projects\[CS253]Homework\20150609_homework1\bin\Debug\20150609_homework1.pdb
+c:\users\user\documents\visual studio 2013\Projects\[CS253]Homework\20150609_homework1\obj\Debug\20150609_homework1.exe
+c:\users\user\documents\visual studio 2013\Projects\[CS253]Homework\20150609_homework1\obj\Debug\20150609_homework1.pdb
