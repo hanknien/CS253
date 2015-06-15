@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\bin\Debug\20150612_homework2.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\20150612_homework2.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\_20150612_homework2.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\_20150612_homework2.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\20150612_homework2.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\bin\Debug\20150612_homework2.exe
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\bin\Debug\20150612_homework2.pdb
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\20150612_homework2.exe
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\20150612_homework2\obj\Debug\20150612_homework2.pdb
