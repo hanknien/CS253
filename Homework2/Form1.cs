@@ -26,11 +26,11 @@ namespace Homework2
 
         private void InitializeSeats(PictureBox[] pic)
         {
-            CreateSeats(pic);
-            SetSeatImage(pic);
+            CreateSeats();
+            SetSeatImage();
         }
 
-        private void CreateSeats(PictureBox[] pic)
+        private void CreateSeats()
         {
             for (int i = 0; i < 40; i++)
             {
@@ -45,7 +45,7 @@ namespace Homework2
             }
         }
 
-        private void SetSeatImage(PictureBox[] pic)
+        private void SetSeatImage()
         {
             Random random = new Random();
             status = new int[40];
@@ -99,7 +99,7 @@ namespace Homework2
 
         private void resetButton_Click(object sender, EventArgs e)
         {
-            SetSeatImage(pic);
+            SetSeatImage();
         }
     }
 }
