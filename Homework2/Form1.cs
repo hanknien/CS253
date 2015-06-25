@@ -21,10 +21,10 @@ namespace Homework2
         public Form1()
         {
             InitializeComponent();
-            InitializeSeats(pic);
+            InitializeSeats();
         }
 
-        private void InitializeSeats(PictureBox[] pic)
+        private void InitializeSeats()
         {
             CreateSeats();
             SetSeatImage();
