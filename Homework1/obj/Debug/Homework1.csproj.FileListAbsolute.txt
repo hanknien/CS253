@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\bin\Debug\Homework1.exe
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\bin\Debug\Homework1.pdb
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\obj\Debug\Homework1.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\obj\Debug\Homework1.exe
+C:\Users\User\documents\visual studio 2013\Projects\[CS253]Homework\Homework1\obj\Debug\Homework1.pdb
